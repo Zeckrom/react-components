@@ -1,0 +1,22 @@
+.number-container {
+  width: 300px;
+  display: flex;
+  border: 4px solid black;
+  justify-content: space-between;
+  margin: auto;
+}
+.number {
+  width: 40%;
+  text-align: center;
+}
+.minus,
+.plus {
+  width: 28%;
+  text-align: center;
+}
+.minus {
+  border-right: 4px solid black;
+}
+.plus {
+  border-left: 4px solid black;
+}

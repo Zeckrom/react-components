@@ -1,0 +1,51 @@
+.alert-container {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.message {
+  width: 80%;
+}
+.delete {
+  width: 20%;
+}
+.message,
+.delete {
+  text-align: center;
+}
+.black {
+  border: 2px solid black;
+}
+.black-del {
+  border-left: 2px solid black;
+}
+.red {
+  border: 2px solid red;
+}
+.red-del {
+  border-left: 2px solid red;
+}
+.blue {
+  border: 2px solid blue;
+}
+.blue-del {
+  border-left: 2px solid blue;
+}
+.green {
+  border: 2px solid green;
+}
+.green-del {
+  border-left: 2px solid green;
+}
+.yellow {
+  border: 2px solid yellow;
+}
+.yellow-del {
+  border-left: 2px solid yellow;
+}
+.grey {
+  border: 2px solid grey;
+}
+.grey-del {
+  border-left: 2px solid grey;
+}
